@@ -2,6 +2,7 @@
 def greet_immigration():
     """Prints a greeting message."""
     print("hello immigration")
+    print("git hub is a pain")
 
 # Execute the function
 greet_immigration()
